@@ -10,6 +10,7 @@ interface Person{
   age: number;
 }
 
+
 interface DB{
   persons: Array<Person>
 }
